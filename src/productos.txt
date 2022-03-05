@@ -1,0 +1,20 @@
+[                                                                                                                                                     
+    {                                                                                                                                                    
+      title: 'Coca Cola 500ml',                                                                                                                                 
+      price: 110,                                                                                                                                     
+      thumbnail: 'https://jumboargentina.vtexassets.com/arquivos/ids/666704/Coca-cola-Sabor-Original-1-5-Lt-2-245092.jpg?v=637674357676600000',                                     
+      id: 1                                                                                                                                              
+    },                                                                                                                                                   
+    {                                                                                                                                                    
+      title: 'Monster Mango Loco',                                                                                                                              
+      price: 200,                                                                                                                                     
+      thumbnail: 'https://jumboargentina.vtexassets.com/arquivos/ids/580501/Monster-Mango-Loco-473-Ml-2-837702.jpg?v=637219992660500000',                                          
+      id: 2                                                                                                                                              
+    },                                                                                                                                                   
+    {                                                                                                                                                    
+      title: 'Powerade Azul 500ml',                                                                                                                          
+      price: 120,                                                                                                                                     
+      thumbnail: 'https://krearmarket.com/wp-content/uploads/2021/01/76DAN-POWERADE-AZUL-X-500-ML.jpg',                                   
+      id: 3                                                                                                                                              
+    }                                                                                                                                                    
+  ]
